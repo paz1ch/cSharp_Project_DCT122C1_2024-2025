@@ -1,1 +1,4 @@
-# cSharp_Project_DCT122C1_2024-2025
+# Đặng Hùng Phúc
+# Phạm Ngọc Triều
+# Huy Trần
+# Nghĩa Ngu
